@@ -89,7 +89,7 @@ local config = {
         confine_pointer = true,
     },
     theme = {
-        background = #000000,
+        background = "#AA0000",
         -- background_png = background_path,
 
         ninb_anchor = "topright",
@@ -134,7 +134,7 @@ helpers.res_mirror( -- thin e_counter
         depth = 2,
         shader = "text",
     },
-    350, 1100
+    340, 1080
 )
 helpers.res_mirror( -- thin e_counter_bg
     {
@@ -143,7 +143,7 @@ helpers.res_mirror( -- thin e_counter_bg
         depth = 1,
         shader = "text_bg",
     },
-    350, 1100
+    340, 1080
 )
 helpers.res_mirror( -- tall e_counter
     {
@@ -170,7 +170,7 @@ helpers.res_mirror( -- thin pie
         depth = 2,
         shader = "pie_chart",
     },
-    350, 1100
+    340, 1080
 )
 helpers.res_mirror( -- thin pie border
     {
@@ -179,7 +179,7 @@ helpers.res_mirror( -- thin pie border
         depth = 1,
         shader = "pie_border",
     },
-    350, 1100
+    340, 1080
 )
 helpers.res_mirror( -- tall pie
     {
@@ -206,7 +206,7 @@ helpers.res_mirror( -- thin percentages
         depth = 2,
         shader = "text",
     },
-    350, 1100
+    340, 1080
 )
 helpers.res_mirror( -- thin percentages_bg
     {
@@ -215,7 +215,7 @@ helpers.res_mirror( -- thin percentages_bg
         depth = 1,
         shader = "text_bg",
     },
-    350, 1100
+    340, 1080
 )
 helpers.res_mirror( -- tall percentages
     {

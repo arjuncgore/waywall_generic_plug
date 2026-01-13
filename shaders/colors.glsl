@@ -17,4 +17,4 @@ const vec4 pie3_color       = vec4(0.925, 0.431, 0.306, 1.000);
 const vec4 text_color       = vec4(1.000, 1.000, 1.000, 1.000);
 
 // Text Background          = #000000
-const vec4 text_bg_color    = vec4(0.000, 0.000, 0.000, 1.000);
+const vec4 text_bg_color    = vec4(0.100, 0.100, 0.100, 1.100);
